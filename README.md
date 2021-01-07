@@ -3,7 +3,7 @@
 
 It's a simple python program which will calculate bond between you and your loved ones and gives you output.
 
-Live Quiz:-
+Live Link:-
 
 https://repl.it/@DevSuraj/day-3-5-exercise?embed=1&output=1
 
